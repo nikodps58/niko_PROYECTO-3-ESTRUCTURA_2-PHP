@@ -35,7 +35,7 @@
                     >
                 </picture>
                 <h1><?=$h1?></h1>
-                <a href="" class="boton">CTA</a>
+                <a href="" class="boton"><?=$boton_cta?></a>
             </header>
             <main>
                 <!-- quienes somos -->
@@ -56,11 +56,11 @@
                     </picture>
                     <div>
                         <h2>Encabezado de sección h2</h2>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae consequuntur consequatur minus ratione, excepturi magnam rem beatae quis </p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis in ipsam at minima necessitatibus sapiente sequi dicta nam magnam blanditiis.</p>
-                        <a href="#" class="boton">CTA</a>
+                        <p><?=$parrafo_01?></p>
+                        <p><?=$parrafo_02?></p>
+                        <a href="#" class="boton"><?=$boton_cta?></a>
                     </div>            
-                </section>
+                </section> 
 
                 <!-- servicios -->
                 <section class="sect02">
@@ -70,7 +70,7 @@
                             <div>
                                 <h3>Encabezado h3 de artículo</h3>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic fugit voluptate minus cupiditate ipsam laboriosam id cum mollitia, maiores illo, cumque totam impedit quod modi animi quis quisquam deleniti praesentium.</p>
-                                <a href="" class="boton">CTA</a>
+                                <a href="" class="boton"><?=$boton_cta?></a>
                             </div>
                             <div>
                                 <picture>
@@ -92,7 +92,7 @@
                             <div>
                                 <h3>Encabezado h3 de artículo</h3>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic fugit voluptate minus cupiditate ipsam laboriosam id cum mollitia, maiores illo, cumque totam impedit quod modi animi quis quisquam deleniti praesentium.</p>
-                                <a href="" class="boton">CTA</a>
+                                <a href="" class="boton"><?=$boton_cta?></a>
                             </div>
                             <div>
                                 <picture>
@@ -114,7 +114,7 @@
                             <div>
                                 <h3>Encabezado h3 de artículo</h3>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic fugit voluptate minus cupiditate ipsam laboriosam id cum mollitia, maiores illo, cumque totam impedit quod modi animi quis quisquam deleniti praesentium.</p>
-                                <a href="" class="boton">CTA</a>
+                                <a href="" class="boton"><?=$boton_cta?></a>
                             </div>
                             <div>
                                 <picture>

@@ -11,7 +11,8 @@
     "inicio": {
         "title": "WEBDA | Digital solutions for businesses",
         "description": "Digital solutions for businesses: native web development, SEO positioning, SEM campaigns, digital marketing, and corporate image.",
-        "h1": "Digital solutions for businesses"
+        "h1": "Digital solutions for businesses",
+        "boton_cta":"More Info"
     },
     "seo-positioning": {
         "title": "SEO POSITIONING",
